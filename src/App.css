@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  text-decoration: none;
+}
+img {
+  width: 50px;
+}
+.news-block-titles {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.titles-list {
+  display: flex;
+  list-style-type: none;
+  margin-right: 10px;
+}
+.title-item {
+  margin-right: 10px;
+}
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  list-style-type: none;
+}
+.news-item {
+  display: flex;
+}
+.rates-block {
+  display: flex;
+}
+.rates-list {
+  display: flex;
+  list-style-type: none;
+  margin-right: 10px;
+}
+.rate-item {
+  margin-right: 10px;
+}
+.search-block {
+  display: flex;
+}
+.titles-search-menu {
+  display: flex;
+}
+.widgets-block {
+  display: flex;
+}
+.widget {
+  margin-right: 10px;
+}
